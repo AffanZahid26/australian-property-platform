@@ -1,0 +1,33 @@
+{
+  "name": "australian-property-platform",
+  "version": "0.1.0",
+  "description": "A responsive Australian real-estate discovery experience built with Next.js and TypeScript.",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint",
+    "capture:portfolio": "node scripts-capture-upwork.mjs"
+  },
+  "dependencies": {
+    "@mux/mux-player-react": "^3.13.3",
+    "@types/fullpage.js": "^2.9.6",
+    "fullpage.js": "^4.0.41",
+    "lottie-react": "^3.1.2",
+    "next": "16.4.3",
+    "react": "19.2.8",
+    "react-dom": "19.2.8"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.4.3",
+    "playwright": "^1.63.0",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}

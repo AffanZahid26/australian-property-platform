@@ -1,0 +1,70 @@
+{
+  "contentBlocks": [
+    {
+      "_type": "homeBanner",
+      "content": null,
+      "heading": null,
+      "slides": [
+        {
+          "heading": null,
+          "imageDesktop": "https://cdn.sanity.io/images/j27udsf5/production/2d1b672e43bff52aefb603a75a650804277018c3-1280x720.png",
+          "imageMobile": "https://cdn.sanity.io/images/j27udsf5/production/448084eedf7e243d06aae883f8bd5a269a31db5c-4134x2757.jpg",
+          "largeText": true,
+          "link": null,
+          "mediaHeight": 100,
+          "mux": "sNIOETbIgtIFAiK2VypLRZk8UqWdPBmIQYI3Eap7oUA"
+        },
+        {
+          "heading": "For Sale",
+          "imageDesktop": "https://cdn.sanity.io/images/j27udsf5/production/bc056cc16986d5708ef1438f9e6d17e24213af4a-4134x2757.jpg",
+          "imageMobile": "https://cdn.sanity.io/images/j27udsf5/production/bc056cc16986d5708ef1438f9e6d17e24213af4a-4134x2757.jpg",
+          "largeText": true,
+          "link": "buy",
+          "mediaHeight": 100,
+          "mux": null
+        },
+        {
+          "heading": "For Rent",
+          "imageDesktop": "https://cdn.sanity.io/images/j27udsf5/production/1ce1fc44460056c34bf3bdbd50e2522e8021f7b4-2897x1533.png",
+          "imageMobile": "https://cdn.sanity.io/images/j27udsf5/production/1ce1fc44460056c34bf3bdbd50e2522e8021f7b4-2897x1533.png",
+          "largeText": true,
+          "link": "lease",
+          "mediaHeight": 100,
+          "mux": null
+        },
+        {
+          "heading": "Our People",
+          "imageDesktop": "https://cdn.sanity.io/images/j27udsf5/production/2d1b672e43bff52aefb603a75a650804277018c3-1280x720.png",
+          "imageMobile": "https://cdn.sanity.io/images/j27udsf5/production/2d1b672e43bff52aefb603a75a650804277018c3-1280x720.png",
+          "largeText": true,
+          "link": "about",
+          "mediaHeight": 100,
+          "mux": "202dZJWGRV01klgfKGuLbSQcQEq02I01XjbkVXF6LBMJAQA"
+        }
+      ]
+    },
+    {
+      "_type": "seoContent",
+      "content": [
+        {
+          "_key": "1e7424e6ac80",
+          "_type": "block",
+          "children": [
+            {
+              "_key": "a88c0056a9c0",
+              "_type": "span",
+              "marks": [],
+              "text": "Sydney's Eastern Suburbs property market rewards those who know it intimately \u2014 and no one knows it better than JT Allen. As a boutique real estate agency based in Double Bay, we specialise in residential sales and property management across Double Bay, Rose Bay, Bellevue Hill, Vaucluse, Darling Point, Point Piper, Woollahra and Bondi. But what truly sets us apart isn't just our record sales results across the Eastern Suburbs \u2014 it's the way we achieve them. We're genuine, down-to-earth people who treat your home with the same care we'd give our own. No ego. No puffery. Just real market intelligence, honest advice, and an unwavering commitment to getting you the best possible outcome. Whether you're selling, buying, or investing in Sydney's Eastern Suburbs, JT Allen delivers results made real."
+            }
+          ],
+          "markDefs": [],
+          "style": "normal"
+        }
+      ],
+      "heading": "Sydney's Eastern Suburbs Real Estate Specialists",
+      "slides": null
+    }
+  ],
+  "title": "JT Allen | Real Estate Experts in Sydney\u2019s Eastern Suburbs",
+  "transHeader": true
+}

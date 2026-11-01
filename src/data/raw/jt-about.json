@@ -1,0 +1,189 @@
+{
+  "heroImage": "https://cdn.sanity.io/images/j27udsf5/production/da1c37485640b696d4d0c04047164aadfc7a39f8-4096x2731.jpg",
+  "heroMux": "sNIOETbIgtIFAiK2VypLRZk8UqWdPBmIQYI3Eap7oUA",
+  "menus": [
+    {
+      "image": "https://cdn.sanity.io/images/j27udsf5/production/79a1f37e43b48640ebf8269e81f7f51a2f699b7c-1920x1280.jpg",
+      "menuSlug": "/buy",
+      "menuTitle": "Buy"
+    },
+    {
+      "image": "https://cdn.sanity.io/images/j27udsf5/production/fcbe6cfd6984ef25f1354971e7fa3f2daafa28b1-1200x1800.jpg",
+      "menuSlug": "lease",
+      "menuTitle": "Rent"
+    },
+    {
+      "image": "https://cdn.sanity.io/images/j27udsf5/production/65c38880c10b43cd24936b2cd6c8357ef88d5bca-2000x1500.jpg",
+      "menuSlug": "sold",
+      "menuTitle": "Sell"
+    },
+    {
+      "image": "https://cdn.sanity.io/images/j27udsf5/production/ea683c4b5a2e3c801220568a36915a020192a378-1000x1500.jpg",
+      "menuSlug": "about",
+      "menuTitle": "Our People"
+    },
+    {
+      "image": "https://cdn.sanity.io/images/j27udsf5/production/3e7ac725a44de0770dbad2474b621f101c6563a6-2200x3012.jpg",
+      "menuSlug": "journal",
+      "menuTitle": "Journal"
+    },
+    {
+      "image": "https://cdn.sanity.io/images/j27udsf5/production/57cb6d0faadc2bdff1e480dfcf9a391d56b21664-1806x2364.jpg",
+      "menuSlug": "/contact",
+      "menuTitle": "Contact"
+    }
+  ],
+  "motto": [
+    {
+      "_key": "ab3cb73dfb4d",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "f7ef217e40ea0",
+          "_type": "span",
+          "marks": [],
+          "text": "Achieving record-breaking results - no matter where you are in your property journey. Unlock your property\u2019s potential today. Call us on "
+        },
+        {
+          "_key": "7bc08ebee003",
+          "_type": "span",
+          "marks": [
+            "924cee1d3a42"
+          ],
+          "text": "02 9362 8507"
+        },
+        {
+          "_key": "52f6cacebdb2",
+          "_type": "span",
+          "marks": [],
+          "text": "."
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "924cee1d3a42",
+          "_type": "link",
+          "href": "tel:+0293628507"
+        }
+      ],
+      "style": "normal"
+    }
+  ],
+  "testimonials": {
+    "contents": [
+      {
+        "testimonialAuthor": "Michelle, Double Bay",
+        "testimonialContent": "\"I recently sold my house on Leura Rd with Josh and Ryan. The property sold within three brief inspections! From the initial phone call with Ryan, I found Josh and Ryan to be the ultimate professionals. They were polite, beautifully attired and I felt immediately safe and confident leaving my loving home in their hands. I look forward to a continued business relationship with the team at JT Allen.\""
+      },
+      {
+        "testimonialAuthor": "Cynthia, Bondi Beach",
+        "testimonialContent": "\"I just bought an apartment through Ryan and couldn't have asked for a better agent to deal with. I think both the vendor and I are happy with the outcome; I certainly am! Ryan kept me informed every step of the way, he was a pleasure to work with.\""
+      },
+      {
+        "testimonialAuthor": "Toni, Bondi",
+        "testimonialContent": "\"Nicole Sirtes (the Property Manager) was so patient and accommodating with me and responded so quickly to my many questions. Throughout the lease period, If I ever needed anything, she addressed it super quickly..  The only reason I have left the apartment is I've been fortunate enough to purchase my own place. Even at the closure of my lease, Nicole processed my Bond Application in record time to have my Bond returned promptly.  I would not hesitate to give my property to Nicole and her team to manage \u2013 their level of service is unparalleled.\""
+      },
+      {
+        "testimonialAuthor": "Dave, Bondi Junction",
+        "testimonialContent": "\"I was recently introduced to JT Allen to assist with renting out my apartment. I had the pleasure of working with Isabella Battell who is extremely professional and fully understood the market and my requirements.   It has been an absolute pleasure working with Isabella and the JT Allen staff. Highly recommended!\""
+      },
+      {
+        "testimonialAuthor": "Andrew, Double Bay",
+        "testimonialContent": "\u201cJosh took control of an off-market sale and made it happen with minimal fuss and professionalism. I\u2019d previously tried to sell the property with an expensive and poorly executed campaign with another agency. I highly recommend Josh and his team at JT Allen.\u201d"
+      }
+    ],
+    "image": "https://cdn.sanity.io/images/j27udsf5/production/dfcb06157e6bd613cbc91c2aa125ae4b30f6d62d-1631x1080.png"
+  },
+  "title": "Our People",
+  "whoWeAre": {
+    "_type": "whoWeAre",
+    "content": [
+      {
+        "_key": "8a3ff0d825a8",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "031fc944eb0c0",
+            "_type": "span",
+            "marks": [],
+            "text": "At JT Allen Real Estate, we don\u2019t just set the bar for success in Sydney\u2019s Eastern Suburbs - we consistently break records. Renowned for excellence in sales and property management, our dynamic team combines local market expertise with global reach. Thanks to our strategic partnerships with overseas agents, we attract international buyers and provide unparalleled exposure for our clients. This unique advantage allows us to deliver unmatched outcomes, maximising property potential for sellers, investors, and developers alike."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "bc2b83d19330",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "4cf365f65d210",
+            "_type": "span",
+            "marks": [],
+            "text": ""
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "1b5770fae212",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "bd5c17d2f1b20",
+            "_type": "span",
+            "marks": [],
+            "text": "As a family-owned business, we prioritise personalised service, backed by an unwavering commitment to integrity, professionalism, and real results. Our innovative systems, strategic marketing, and seamless processes ensure that we consistently achieve top-tier outcomes for our clients. Whether it\u2019s buying, selling, or leasing, JT Allen Real Estate is synonymous with premium prices and exceptional service, both locally and abroad."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "d0a43b965a28",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a20b72b7ebc20",
+            "_type": "span",
+            "marks": [],
+            "text": ""
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "ff8f1aa236aa",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "985b12bf9dbb0",
+            "_type": "span",
+            "marks": [],
+            "text": "In today\u2019s competitive real estate market, having trusted professionals with deep local knowledge and global reach is critical. For investors, purchasers, developers, and homeowners, JT Allen Real Estate offers the expertise and confidence to navigate every step of your property journey. Partner with us to unlock your property\u2019s full potential."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      }
+    ],
+    "contentForMobile": [
+      {
+        "_key": "533f059f3fcb",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "c6a8e6dd1c3d",
+            "_type": "span",
+            "marks": [],
+            "text": "At JT Allen Real Estate, we don\u2019t just set the bar for success in Sydney\u2019s Eastern Suburbs - we consistently break records. Renowned for excellence in sales and property management, our dynamic team combines local market expertise with global reach. Thanks to our strategic partnerships with overseas agents, we attract international buyers and provide unparalleled exposure for our clients. This unique advantage allows us to deliver unmatched outcomes, maximising property potential for sellers, investors, and developers alike."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      }
+    ]
+  }
+}
